@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjetNote", "ObjetNote\ObjetNote.csproj", "{892AFD37-6355-44AF-B902-EC6B2D9CC49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892AFD37-6355-44AF-B902-EC6B2D9CC49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892AFD37-6355-44AF-B902-EC6B2D9CC49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892AFD37-6355-44AF-B902-EC6B2D9CC49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892AFD37-6355-44AF-B902-EC6B2D9CC49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665A805E-F795-4529-88C3-F1B47EACA27D}
+	EndGlobalSection
+EndGlobal

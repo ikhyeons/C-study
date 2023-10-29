@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\ReadLineRealNumber.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\ReadLineRealNumber.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\ReadLineRealNumber.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\ReadLineRealNumber.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\ReadLineRealNumber.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\ReadLineRealNumber.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\ReadLineRealNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\AutoPropertyInitializers.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\AutoPropertyInitializers.exe
+C:\Users\skant\OneDrive\Desktop\C#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\AutoPropertyInitializers.pdb
+C:\Users\skant\OneDrive\Desktop\C#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\AutoPropertyInitializers.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\AutoPropertyInitializers.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\AutoPropertyInitializers.exe
+C:\Users\skant\OneDrive\Desktop\C#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\AutoPropertyInitializers.pdb

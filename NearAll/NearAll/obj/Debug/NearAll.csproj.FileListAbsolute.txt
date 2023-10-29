@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\NearAll\NearAll\bin\Debug\NearAll.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\NearAll\NearAll\bin\Debug\NearAll.exe
+C:\Users\skant\OneDrive\Desktop\C#\NearAll\NearAll\bin\Debug\NearAll.pdb
+C:\Users\skant\OneDrive\Desktop\C#\NearAll\NearAll\obj\Debug\NearAll.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\NearAll\NearAll\obj\Debug\NearAll.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\NearAll\NearAll\obj\Debug\NearAll.exe
+C:\Users\skant\OneDrive\Desktop\C#\NearAll\NearAll\obj\Debug\NearAll.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\NickNameAttributeTest.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\NickNameAttributeTest.exe
+C:\Users\skant\OneDrive\Desktop\C#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\NickNameAttributeTest.pdb
+C:\Users\skant\OneDrive\Desktop\C#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\NickNameAttributeTest.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\NickNameAttributeTest.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\NickNameAttributeTest.exe
+C:\Users\skant\OneDrive\Desktop\C#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\NickNameAttributeTest.pdb

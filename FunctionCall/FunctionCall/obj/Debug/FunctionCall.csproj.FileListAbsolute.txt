@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\FunctionCall\FunctionCall\bin\Debug\FunctionCall.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\FunctionCall\FunctionCall\bin\Debug\FunctionCall.exe
+C:\Users\skant\OneDrive\Desktop\C#\FunctionCall\FunctionCall\bin\Debug\FunctionCall.pdb
+C:\Users\skant\OneDrive\Desktop\C#\FunctionCall\FunctionCall\obj\Debug\FunctionCall.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FunctionCall\FunctionCall\obj\Debug\FunctionCall.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\FunctionCall\FunctionCall\obj\Debug\FunctionCall.exe
+C:\Users\skant\OneDrive\Desktop\C#\FunctionCall\FunctionCall\obj\Debug\FunctionCall.pdb

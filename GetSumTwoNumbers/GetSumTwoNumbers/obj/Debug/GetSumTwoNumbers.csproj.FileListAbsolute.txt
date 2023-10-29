@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\GetSumTwoNumbers\GetSumTwoNumbers\bin\Debug\GetSumTwoNumbers.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\GetSumTwoNumbers\GetSumTwoNumbers\bin\Debug\GetSumTwoNumbers.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetSumTwoNumbers\GetSumTwoNumbers\bin\Debug\GetSumTwoNumbers.pdb
+C:\Users\skant\OneDrive\Desktop\C#\GetSumTwoNumbers\GetSumTwoNumbers\obj\Debug\GetSumTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetSumTwoNumbers\GetSumTwoNumbers\obj\Debug\GetSumTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetSumTwoNumbers\GetSumTwoNumbers\obj\Debug\GetSumTwoNumbers.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetSumTwoNumbers\GetSumTwoNumbers\obj\Debug\GetSumTwoNumbers.pdb

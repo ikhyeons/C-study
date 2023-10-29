@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LinqCount\LinqCount\bin\Debug\LinqCount.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LinqCount\LinqCount\bin\Debug\LinqCount.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqCount\LinqCount\bin\Debug\LinqCount.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LinqCount\LinqCount\obj\Debug\LinqCount.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqCount\LinqCount\obj\Debug\LinqCount.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqCount\LinqCount\obj\Debug\LinqCount.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqCount\LinqCount\obj\Debug\LinqCount.pdb

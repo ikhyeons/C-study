@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineDemo\ReadLineDemo\bin\Debug\ReadLineDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineDemo\ReadLineDemo\bin\Debug\ReadLineDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineDemo\ReadLineDemo\bin\Debug\ReadLineDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineDemo\ReadLineDemo\obj\Debug\ReadLineDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineDemo\ReadLineDemo\obj\Debug\ReadLineDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineDemo\ReadLineDemo\obj\Debug\ReadLineDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineDemo\ReadLineDemo\obj\Debug\ReadLineDemo.pdb

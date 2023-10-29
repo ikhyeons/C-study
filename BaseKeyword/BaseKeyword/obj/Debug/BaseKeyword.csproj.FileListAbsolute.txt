@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\BaseKeyword\BaseKeyword\bin\Debug\BaseKeyword.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\BaseKeyword\BaseKeyword\bin\Debug\BaseKeyword.exe
+C:\Users\skant\OneDrive\Desktop\C#\BaseKeyword\BaseKeyword\bin\Debug\BaseKeyword.pdb
+C:\Users\skant\OneDrive\Desktop\C#\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.exe
+C:\Users\skant\OneDrive\Desktop\C#\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.pdb

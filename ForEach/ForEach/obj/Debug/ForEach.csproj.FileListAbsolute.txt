@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\skant\OneDrive\Desktop\C#\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ForEach\ForEach\obj\Debug\ForEach.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\skant\OneDrive\Desktop\C#\ForEach\ForEach\obj\Debug\ForEach.pdb

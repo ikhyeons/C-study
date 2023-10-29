@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineInteger\ReadLineInteger\bin\Debug\ReadLineInteger.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineInteger\ReadLineInteger\bin\Debug\ReadLineInteger.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineInteger\ReadLineInteger\bin\Debug\ReadLineInteger.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineInteger\ReadLineInteger\obj\Debug\ReadLineInteger.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineInteger\ReadLineInteger\obj\Debug\ReadLineInteger.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineInteger\ReadLineInteger\obj\Debug\ReadLineInteger.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineInteger\ReadLineInteger\obj\Debug\ReadLineInteger.pdb

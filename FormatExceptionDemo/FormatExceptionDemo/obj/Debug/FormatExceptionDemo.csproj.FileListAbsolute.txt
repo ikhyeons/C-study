@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\FormatExceptionDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\FormatExceptionDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\FormatExceptionDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\FormatExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\FormatExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\FormatExceptionDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\FormatExceptionDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\CharacterDemo.cs\CharacterDemo.cs\bin\Debug\CharacterDemo.cs.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\CharacterDemo.cs\CharacterDemo.cs\bin\Debug\CharacterDemo.cs.exe
+C:\Users\skant\OneDrive\Desktop\C#\CharacterDemo.cs\CharacterDemo.cs\bin\Debug\CharacterDemo.cs.pdb
+C:\Users\skant\OneDrive\Desktop\C#\CharacterDemo.cs\CharacterDemo.cs\obj\Debug\CharacterDemo.cs.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\CharacterDemo.cs\CharacterDemo.cs\obj\Debug\CharacterDemo.cs.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\CharacterDemo.cs\CharacterDemo.cs\obj\Debug\CharacterDemo.cs.exe
+C:\Users\skant\OneDrive\Desktop\C#\CharacterDemo.cs\CharacterDemo.cs\obj\Debug\CharacterDemo.cs.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\XElementDemo\XElementDemo\bin\Debug\XElementDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\XElementDemo\XElementDemo\bin\Debug\XElementDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\XElementDemo\XElementDemo\bin\Debug\XElementDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\XElementDemo\XElementDemo\obj\Debug\XElementDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\XElementDemo\XElementDemo\obj\Debug\XElementDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\XElementDemo\XElementDemo\obj\Debug\XElementDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\XElementDemo\XElementDemo\obj\Debug\XElementDemo.pdb

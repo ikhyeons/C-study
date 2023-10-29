@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\StreamWriterWriteLineDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\StreamWriterWriteLineDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\StreamWriterWriteLineDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\StreamWriterWriteLineDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\StreamWriterWriteLineDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\StreamWriterWriteLineDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\StreamWriterWriteLineDemo.pdb

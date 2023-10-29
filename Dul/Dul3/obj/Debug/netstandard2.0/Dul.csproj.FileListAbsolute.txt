@@ -1,0 +1,10 @@
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\bin\Debug\netstandard2.0\Dul.deps.json
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\bin\Debug\netstandard2.0\Dul.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\bin\Debug\netstandard2.0\Dul.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\obj\Debug\netstandard2.0\Dul.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\obj\Debug\netstandard2.0\Dul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\obj\Debug\netstandard2.0\Dul.AssemblyInfoInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\obj\Debug\netstandard2.0\Dul.AssemblyInfo.cs
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\obj\Debug\netstandard2.0\Dul.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\obj\Debug\netstandard2.0\Dul.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\obj\Debug\netstandard2.0\Dul.pdb

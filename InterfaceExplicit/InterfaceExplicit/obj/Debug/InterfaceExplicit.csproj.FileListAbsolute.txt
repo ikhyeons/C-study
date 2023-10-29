@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExplicit\InterfaceExplicit\obj\Debug\InterfaceExplicit.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExplicit\InterfaceExplicit\obj\Debug\InterfaceExplicit.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExplicit\InterfaceExplicit\bin\Debug\InterfaceExplicit.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExplicit\InterfaceExplicit\bin\Debug\InterfaceExplicit.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExplicit\InterfaceExplicit\bin\Debug\InterfaceExplicit.pdb
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExplicit\InterfaceExplicit\obj\Debug\InterfaceExplicit.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExplicit\InterfaceExplicit\obj\Debug\InterfaceExplicit.pdb

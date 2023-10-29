@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\IntToBype\IntToBype\bin\Debug\IntToBype.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\IntToBype\IntToBype\bin\Debug\IntToBype.exe
+C:\Users\skant\OneDrive\Desktop\C#\IntToBype\IntToBype\bin\Debug\IntToBype.pdb
+C:\Users\skant\OneDrive\Desktop\C#\IntToBype\IntToBype\obj\Debug\IntToBype.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\IntToBype\IntToBype\obj\Debug\IntToBype.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\IntToBype\IntToBype\obj\Debug\IntToBype.exe
+C:\Users\skant\OneDrive\Desktop\C#\IntToBype\IntToBype\obj\Debug\IntToBype.pdb

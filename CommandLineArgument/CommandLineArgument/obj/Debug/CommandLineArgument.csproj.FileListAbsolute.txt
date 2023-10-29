@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineArgument\CommandLineArgument\bin\Debug\CommandLineArgument.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineArgument\CommandLineArgument\bin\Debug\CommandLineArgument.exe
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineArgument\CommandLineArgument\bin\Debug\CommandLineArgument.pdb
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineArgument\CommandLineArgument\obj\Debug\CommandLineArgument.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineArgument\CommandLineArgument\obj\Debug\CommandLineArgument.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineArgument\CommandLineArgument\obj\Debug\CommandLineArgument.exe
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineArgument\CommandLineArgument\obj\Debug\CommandLineArgument.pdb

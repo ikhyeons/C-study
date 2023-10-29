@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\RandomDemo\RandomDemo\bin\Debug\RandomDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\RandomDemo\RandomDemo\bin\Debug\RandomDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\RandomDemo\RandomDemo\bin\Debug\RandomDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\RandomDemo\RandomDemo\obj\Debug\RandomDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\RandomDemo\RandomDemo\obj\Debug\RandomDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\RandomDemo\RandomDemo\obj\Debug\RandomDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\RandomDemo\RandomDemo\obj\Debug\RandomDemo.pdb

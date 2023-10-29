@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb

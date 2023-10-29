@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.pdb

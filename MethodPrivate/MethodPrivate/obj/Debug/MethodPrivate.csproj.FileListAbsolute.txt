@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\MethodPrivate\MethodPrivate\bin\Debug\MethodPrivate.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\MethodPrivate\MethodPrivate\bin\Debug\MethodPrivate.exe
+C:\Users\skant\OneDrive\Desktop\C#\MethodPrivate\MethodPrivate\bin\Debug\MethodPrivate.pdb
+C:\Users\skant\OneDrive\Desktop\C#\MethodPrivate\MethodPrivate\obj\Debug\MethodPrivate.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\MethodPrivate\MethodPrivate\obj\Debug\MethodPrivate.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\MethodPrivate\MethodPrivate\obj\Debug\MethodPrivate.exe
+C:\Users\skant\OneDrive\Desktop\C#\MethodPrivate\MethodPrivate\obj\Debug\MethodPrivate.pdb

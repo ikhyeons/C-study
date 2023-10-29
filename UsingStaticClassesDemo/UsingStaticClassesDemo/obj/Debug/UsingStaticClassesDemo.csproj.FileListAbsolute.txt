@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\UsingStaticClassesDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\UsingStaticClassesDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\UsingStaticClassesDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\UsingStaticClassesDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\UsingStaticClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\UsingStaticClassesDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\UsingStaticClassesDemo.pdb

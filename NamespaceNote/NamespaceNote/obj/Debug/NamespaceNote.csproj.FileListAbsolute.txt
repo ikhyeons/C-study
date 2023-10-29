@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\NamespaceNote\NamespaceNote\obj\Debug\NamespaceNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\NamespaceNote\NamespaceNote\obj\Debug\NamespaceNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\NamespaceNote\NamespaceNote\bin\Debug\NamespaceNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\NamespaceNote\NamespaceNote\bin\Debug\NamespaceNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\NamespaceNote\NamespaceNote\bin\Debug\NamespaceNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\NamespaceNote\NamespaceNote\obj\Debug\NamespaceNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\NamespaceNote\NamespaceNote\obj\Debug\NamespaceNote.pdb

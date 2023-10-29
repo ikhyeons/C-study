@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ConstrutorToDestructor\ConstrutorToDestructor\obj\Debug\ConstrutorToDestructor.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ConstrutorToDestructor\ConstrutorToDestructor\obj\Debug\ConstrutorToDestructor.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ConstrutorToDestructor\ConstrutorToDestructor\bin\Debug\ConstrutorToDestructor.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ConstrutorToDestructor\ConstrutorToDestructor\bin\Debug\ConstrutorToDestructor.exe
+C:\Users\skant\OneDrive\Desktop\C#\ConstrutorToDestructor\ConstrutorToDestructor\bin\Debug\ConstrutorToDestructor.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ConstrutorToDestructor\ConstrutorToDestructor\obj\Debug\ConstrutorToDestructor.exe
+C:\Users\skant\OneDrive\Desktop\C#\ConstrutorToDestructor\ConstrutorToDestructor\obj\Debug\ConstrutorToDestructor.pdb

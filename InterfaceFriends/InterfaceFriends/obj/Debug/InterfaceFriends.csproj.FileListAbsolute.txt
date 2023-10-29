@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceFriends\InterfaceFriends\bin\Debug\InterfaceFriends.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceFriends\InterfaceFriends\bin\Debug\InterfaceFriends.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceFriends\InterfaceFriends\bin\Debug\InterfaceFriends.pdb
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceFriends\InterfaceFriends\obj\Debug\InterfaceFriends.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceFriends\InterfaceFriends\obj\Debug\InterfaceFriends.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceFriends\InterfaceFriends\obj\Debug\InterfaceFriends.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceFriends\InterfaceFriends\obj\Debug\InterfaceFriends.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\InheritaneDemo\InheritaneDemo\bin\Debug\InheritaneDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\InheritaneDemo\InheritaneDemo\bin\Debug\InheritaneDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\InheritaneDemo\InheritaneDemo\bin\Debug\InheritaneDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\InheritaneDemo\InheritaneDemo\obj\Debug\InheritaneDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\InheritaneDemo\InheritaneDemo\obj\Debug\InheritaneDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\InheritaneDemo\InheritaneDemo\obj\Debug\InheritaneDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\InheritaneDemo\InheritaneDemo\obj\Debug\InheritaneDemo.pdb

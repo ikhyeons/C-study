@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\StreamReaderReadToEndDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\StreamReaderReadToEndDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\StreamReaderReadToEndDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\StreamReaderReadToEndDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\StreamReaderReadToEndDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\StreamReaderReadToEndDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\StreamReaderReadToEndDemo.pdb

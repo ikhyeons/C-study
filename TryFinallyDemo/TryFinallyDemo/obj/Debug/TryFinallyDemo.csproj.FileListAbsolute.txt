@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\TryFinallyDemo\TryFinallyDemo\bin\Debug\TryFinallyDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\TryFinallyDemo\TryFinallyDemo\bin\Debug\TryFinallyDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\TryFinallyDemo\TryFinallyDemo\bin\Debug\TryFinallyDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\TryFinallyDemo\TryFinallyDemo\obj\Debug\TryFinallyDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\TryFinallyDemo\TryFinallyDemo\obj\Debug\TryFinallyDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\TryFinallyDemo\TryFinallyDemo\obj\Debug\TryFinallyDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\TryFinallyDemo\TryFinallyDemo\obj\Debug\TryFinallyDemo.pdb

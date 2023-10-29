@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\OperatorAdd\OperatorAdd\bin\Debug\OperatorAdd.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\OperatorAdd\OperatorAdd\bin\Debug\OperatorAdd.exe
+C:\Users\skant\OneDrive\Desktop\C#\OperatorAdd\OperatorAdd\bin\Debug\OperatorAdd.pdb
+C:\Users\skant\OneDrive\Desktop\C#\OperatorAdd\OperatorAdd\obj\Debug\OperatorAdd.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\OperatorAdd\OperatorAdd\obj\Debug\OperatorAdd.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\OperatorAdd\OperatorAdd\obj\Debug\OperatorAdd.exe
+C:\Users\skant\OneDrive\Desktop\C#\OperatorAdd\OperatorAdd\obj\Debug\OperatorAdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\FileAndFileInfo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\FileAndFileInfo.exe
+C:\Users\skant\OneDrive\Desktop\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\FileAndFileInfo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\FileAndFileInfo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\FileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\FileAndFileInfo.exe
+C:\Users\skant\OneDrive\Desktop\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\FileAndFileInfo.pdb

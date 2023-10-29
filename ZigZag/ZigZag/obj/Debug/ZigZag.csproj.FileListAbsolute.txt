@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ZigZag\ZigZag\bin\Debug\ZigZag.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ZigZag\ZigZag\bin\Debug\ZigZag.exe
+C:\Users\skant\OneDrive\Desktop\C#\ZigZag\ZigZag\bin\Debug\ZigZag.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ZigZag\ZigZag\obj\Debug\ZigZag.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ZigZag\ZigZag\obj\Debug\ZigZag.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ZigZag\ZigZag\obj\Debug\ZigZag.exe
+C:\Users\skant\OneDrive\Desktop\C#\ZigZag\ZigZag\obj\Debug\ZigZag.pdb

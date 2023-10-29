@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\CharStringBoolean\CharStringBoolean\bin\Debug\CharStringBoolean.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\CharStringBoolean\CharStringBoolean\bin\Debug\CharStringBoolean.exe
+C:\Users\skant\OneDrive\Desktop\C#\CharStringBoolean\CharStringBoolean\bin\Debug\CharStringBoolean.pdb
+C:\Users\skant\OneDrive\Desktop\C#\CharStringBoolean\CharStringBoolean\obj\Debug\CharStringBoolean.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\CharStringBoolean\CharStringBoolean\obj\Debug\CharStringBoolean.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\CharStringBoolean\CharStringBoolean\obj\Debug\CharStringBoolean.exe
+C:\Users\skant\OneDrive\Desktop\C#\CharStringBoolean\CharStringBoolean\obj\Debug\CharStringBoolean.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\CountAlgorithm\CountAlgorithm\bin\Debug\CountAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\CountAlgorithm\CountAlgorithm\bin\Debug\CountAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\CountAlgorithm\CountAlgorithm\bin\Debug\CountAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\CountAlgorithm\CountAlgorithm\obj\Debug\CountAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\CountAlgorithm\CountAlgorithm\obj\Debug\CountAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\CountAlgorithm\CountAlgorithm\obj\Debug\CountAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\CountAlgorithm\CountAlgorithm\obj\Debug\CountAlgorithm.pdb

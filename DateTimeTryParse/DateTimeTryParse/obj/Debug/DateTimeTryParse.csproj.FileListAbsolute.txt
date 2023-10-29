@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\DateTimeTryParse\DateTimeTryParse\bin\Debug\DateTimeTryParse.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\DateTimeTryParse\DateTimeTryParse\bin\Debug\DateTimeTryParse.exe
+C:\Users\skant\OneDrive\Desktop\C#\DateTimeTryParse\DateTimeTryParse\bin\Debug\DateTimeTryParse.pdb
+C:\Users\skant\OneDrive\Desktop\C#\DateTimeTryParse\DateTimeTryParse\obj\Debug\DateTimeTryParse.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\DateTimeTryParse\DateTimeTryParse\obj\Debug\DateTimeTryParse.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\DateTimeTryParse\DateTimeTryParse\obj\Debug\DateTimeTryParse.exe
+C:\Users\skant\OneDrive\Desktop\C#\DateTimeTryParse\DateTimeTryParse\obj\Debug\DateTimeTryParse.pdb

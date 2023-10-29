@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ArrowFunction\ArrowFunction\bin\Debug\ArrowFunction.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ArrowFunction\ArrowFunction\bin\Debug\ArrowFunction.exe
+C:\Users\skant\OneDrive\Desktop\C#\ArrowFunction\ArrowFunction\bin\Debug\ArrowFunction.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ArrowFunction\ArrowFunction\obj\Debug\ArrowFunction.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ArrowFunction\ArrowFunction\obj\Debug\ArrowFunction.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ArrowFunction\ArrowFunction\obj\Debug\ArrowFunction.exe
+C:\Users\skant\OneDrive\Desktop\C#\ArrowFunction\ArrowFunction\obj\Debug\ArrowFunction.pdb

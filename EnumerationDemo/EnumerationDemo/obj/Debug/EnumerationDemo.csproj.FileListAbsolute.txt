@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\EnumerationDemo\EnumerationDemo\bin\Debug\EnumerationDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\EnumerationDemo\EnumerationDemo\bin\Debug\EnumerationDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumerationDemo\EnumerationDemo\bin\Debug\EnumerationDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.pdb

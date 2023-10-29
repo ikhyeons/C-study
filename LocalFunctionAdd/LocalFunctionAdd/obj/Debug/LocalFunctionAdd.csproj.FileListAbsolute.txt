@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LocalFunctionAdd\LocalFunctionAdd\bin\Debug\LocalFunctionAdd.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LocalFunctionAdd\LocalFunctionAdd\bin\Debug\LocalFunctionAdd.exe
+C:\Users\skant\OneDrive\Desktop\C#\LocalFunctionAdd\LocalFunctionAdd\bin\Debug\LocalFunctionAdd.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LocalFunctionAdd\LocalFunctionAdd\obj\Debug\LocalFunctionAdd.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LocalFunctionAdd\LocalFunctionAdd\obj\Debug\LocalFunctionAdd.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LocalFunctionAdd\LocalFunctionAdd\obj\Debug\LocalFunctionAdd.exe
+C:\Users\skant\OneDrive\Desktop\C#\LocalFunctionAdd\LocalFunctionAdd\obj\Debug\LocalFunctionAdd.pdb

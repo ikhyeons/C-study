@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\TypeAndActivator\TypeAndActivator\bin\Debug\TypeAndActivator.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\TypeAndActivator\TypeAndActivator\bin\Debug\TypeAndActivator.exe
+C:\Users\skant\OneDrive\Desktop\C#\TypeAndActivator\TypeAndActivator\bin\Debug\TypeAndActivator.pdb
+C:\Users\skant\OneDrive\Desktop\C#\TypeAndActivator\TypeAndActivator\obj\Debug\TypeAndActivator.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\TypeAndActivator\TypeAndActivator\obj\Debug\TypeAndActivator.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\TypeAndActivator\TypeAndActivator\obj\Debug\TypeAndActivator.exe
+C:\Users\skant\OneDrive\Desktop\C#\TypeAndActivator\TypeAndActivator\obj\Debug\TypeAndActivator.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Users\skant\OneDrive\Desktop\C#\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\Users\skant\OneDrive\Desktop\C#\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\RegexReplace\RegexReplace\bin\Debug\RegexReplace.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\RegexReplace\RegexReplace\bin\Debug\RegexReplace.exe
+C:\Users\skant\OneDrive\Desktop\C#\RegexReplace\RegexReplace\bin\Debug\RegexReplace.pdb
+C:\Users\skant\OneDrive\Desktop\C#\RegexReplace\RegexReplace\obj\Debug\RegexReplace.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\RegexReplace\RegexReplace\obj\Debug\RegexReplace.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\RegexReplace\RegexReplace\obj\Debug\RegexReplace.exe
+C:\Users\skant\OneDrive\Desktop\C#\RegexReplace\RegexReplace\obj\Debug\RegexReplace.pdb

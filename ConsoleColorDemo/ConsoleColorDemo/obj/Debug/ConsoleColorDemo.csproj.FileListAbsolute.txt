@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\ConsoleColorDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\ConsoleColorDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\ConsoleColorDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\ConsoleColorDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\ConsoleColorDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\ConsoleColorDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\ConsoleColorDemo.pdb

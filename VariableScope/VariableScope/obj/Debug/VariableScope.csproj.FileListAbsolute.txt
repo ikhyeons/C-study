@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\VariableScope\VariableScope\bin\Debug\VariableScope.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\VariableScope\VariableScope\bin\Debug\VariableScope.exe
+C:\Users\skant\OneDrive\Desktop\C#\VariableScope\VariableScope\bin\Debug\VariableScope.pdb
+C:\Users\skant\OneDrive\Desktop\C#\VariableScope\VariableScope\obj\Debug\VariableScope.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\VariableScope\VariableScope\obj\Debug\VariableScope.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\VariableScope\VariableScope\obj\Debug\VariableScope.exe
+C:\Users\skant\OneDrive\Desktop\C#\VariableScope\VariableScope\obj\Debug\VariableScope.pdb

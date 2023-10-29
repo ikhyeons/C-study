@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\bin\Debug\LinqQuerySyntax.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\bin\Debug\LinqQuerySyntax.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\bin\Debug\LinqQuerySyntax.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ArrayStudents\ArrayStudents\bin\Debug\ArrayStudents.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ArrayStudents\ArrayStudents\bin\Debug\ArrayStudents.exe
+C:\Users\skant\OneDrive\Desktop\C#\ArrayStudents\ArrayStudents\bin\Debug\ArrayStudents.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ArrayStudents\ArrayStudents\obj\Debug\ArrayStudents.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ArrayStudents\ArrayStudents\obj\Debug\ArrayStudents.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ArrayStudents\ArrayStudents\obj\Debug\ArrayStudents.exe
+C:\Users\skant\OneDrive\Desktop\C#\ArrayStudents\ArrayStudents\obj\Debug\ArrayStudents.pdb

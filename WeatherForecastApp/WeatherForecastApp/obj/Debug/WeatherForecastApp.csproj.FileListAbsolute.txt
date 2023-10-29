@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\WeatherForecastApp\WeatherForecastApp\bin\Debug\WeatherForecastApp.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\WeatherForecastApp\WeatherForecastApp\bin\Debug\WeatherForecastApp.exe
+C:\Users\skant\OneDrive\Desktop\C#\WeatherForecastApp\WeatherForecastApp\bin\Debug\WeatherForecastApp.pdb
+C:\Users\skant\OneDrive\Desktop\C#\WeatherForecastApp\WeatherForecastApp\obj\Debug\WeatherForecastApp.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\WeatherForecastApp\WeatherForecastApp\obj\Debug\WeatherForecastApp.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\WeatherForecastApp\WeatherForecastApp\obj\Debug\WeatherForecastApp.exe
+C:\Users\skant\OneDrive\Desktop\C#\WeatherForecastApp\WeatherForecastApp\obj\Debug\WeatherForecastApp.pdb

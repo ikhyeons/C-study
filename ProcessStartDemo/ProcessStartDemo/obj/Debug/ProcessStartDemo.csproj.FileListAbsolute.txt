@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ProcessStartDemo\ProcessStartDemo\bin\Debug\ProcessStartDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ProcessStartDemo\ProcessStartDemo\bin\Debug\ProcessStartDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ProcessStartDemo\ProcessStartDemo\bin\Debug\ProcessStartDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ProcessStartDemo\ProcessStartDemo\obj\Debug\ProcessStartDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ProcessStartDemo\ProcessStartDemo\obj\Debug\ProcessStartDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ProcessStartDemo\ProcessStartDemo\obj\Debug\ProcessStartDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\ProcessStartDemo\ProcessStartDemo\obj\Debug\ProcessStartDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\MaxAlgorithm\MaxAlgorithm\obj\Debug\MaxAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\MaxAlgorithm\MaxAlgorithm\obj\Debug\MaxAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\MaxAlgorithm\MaxAlgorithm\bin\Debug\MaxAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\MaxAlgorithm\MaxAlgorithm\bin\Debug\MaxAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\MaxAlgorithm\MaxAlgorithm\bin\Debug\MaxAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\MaxAlgorithm\MaxAlgorithm\obj\Debug\MaxAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\MaxAlgorithm\MaxAlgorithm\obj\Debug\MaxAlgorithm.pdb

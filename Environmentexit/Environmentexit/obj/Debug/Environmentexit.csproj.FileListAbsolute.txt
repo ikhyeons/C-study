@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\Environmentexit\Environmentexit\bin\Debug\Environmentexit.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\Environmentexit\Environmentexit\bin\Debug\Environmentexit.exe
+C:\Users\skant\OneDrive\Desktop\C#\Environmentexit\Environmentexit\bin\Debug\Environmentexit.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Environmentexit\Environmentexit\obj\Debug\Environmentexit.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Environmentexit\Environmentexit\obj\Debug\Environmentexit.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Environmentexit\Environmentexit\obj\Debug\Environmentexit.exe
+C:\Users\skant\OneDrive\Desktop\C#\Environmentexit\Environmentexit\obj\Debug\Environmentexit.pdb

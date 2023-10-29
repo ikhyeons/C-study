@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.pdb
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.pdb

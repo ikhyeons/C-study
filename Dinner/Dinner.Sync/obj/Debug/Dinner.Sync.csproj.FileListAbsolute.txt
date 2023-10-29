@@ -1,0 +1,10 @@
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\obj\Debug\Dinner.Sync.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\obj\Debug\Dinner.Sync.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\bin\Debug\Dinner.Sync.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\bin\Debug\Dinner.Sync.exe
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\bin\Debug\Dinner.Sync.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\bin\Debug\Dinner.Common.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\bin\Debug\Dinner.Common.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\obj\Debug\Dinner.Sync.csproj.CopyComplete
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\obj\Debug\Dinner.Sync.exe
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Sync\obj\Debug\Dinner.Sync.pdb

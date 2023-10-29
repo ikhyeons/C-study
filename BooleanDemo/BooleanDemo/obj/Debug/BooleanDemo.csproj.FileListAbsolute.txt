@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\BooleanDemo\BooleanDemo\bin\Debug\BooleanDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\BooleanDemo\BooleanDemo\bin\Debug\BooleanDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\BooleanDemo\BooleanDemo\bin\Debug\BooleanDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\BooleanDemo\BooleanDemo\obj\Debug\BooleanDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\BooleanDemo\BooleanDemo\obj\Debug\BooleanDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\BooleanDemo\BooleanDemo\obj\Debug\BooleanDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\BooleanDemo\BooleanDemo\obj\Debug\BooleanDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\Is\Is\bin\Debug\Is.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\Is\Is\bin\Debug\Is.exe
+C:\Users\skant\OneDrive\Desktop\C#\Is\Is\bin\Debug\Is.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Is\Is\obj\Debug\Is.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Is\Is\obj\Debug\Is.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Is\Is\obj\Debug\Is.exe
+C:\Users\skant\OneDrive\Desktop\C#\Is\Is\obj\Debug\Is.pdb

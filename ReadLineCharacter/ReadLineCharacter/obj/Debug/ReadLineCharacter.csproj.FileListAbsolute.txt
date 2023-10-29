@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineCharacter\ReadLineCharacter\bin\Debug\ReadLineCharacter.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineCharacter\ReadLineCharacter\bin\Debug\ReadLineCharacter.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineCharacter\ReadLineCharacter\bin\Debug\ReadLineCharacter.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineCharacter\ReadLineCharacter\obj\Debug\ReadLineCharacter.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineCharacter\ReadLineCharacter\obj\Debug\ReadLineCharacter.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineCharacter\ReadLineCharacter\obj\Debug\ReadLineCharacter.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReadLineCharacter\ReadLineCharacter\obj\Debug\ReadLineCharacter.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\VariableNote\VariableNote\bin\Debug\VariableNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\VariableNote\VariableNote\bin\Debug\VariableNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\VariableNote\VariableNote\bin\Debug\VariableNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\VariableNote\VariableNote\obj\Debug\VariableNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\VariableNote\VariableNote\obj\Debug\VariableNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\VariableNote\VariableNote\obj\Debug\VariableNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\VariableNote\VariableNote\obj\Debug\VariableNote.pdb

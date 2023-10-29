@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\PropertyAll\PropertyAll\bin\Debug\PropertyAll.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\PropertyAll\PropertyAll\bin\Debug\PropertyAll.exe
+C:\Users\skant\OneDrive\Desktop\C#\PropertyAll\PropertyAll\bin\Debug\PropertyAll.pdb
+C:\Users\skant\OneDrive\Desktop\C#\PropertyAll\PropertyAll\obj\Debug\PropertyAll.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\PropertyAll\PropertyAll\obj\Debug\PropertyAll.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\PropertyAll\PropertyAll\obj\Debug\PropertyAll.exe
+C:\Users\skant\OneDrive\Desktop\C#\PropertyAll\PropertyAll\obj\Debug\PropertyAll.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\RecursionPower\RecursionPower\bin\Debug\RecursionPower.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\RecursionPower\RecursionPower\bin\Debug\RecursionPower.exe
+C:\Users\skant\OneDrive\Desktop\C#\RecursionPower\RecursionPower\bin\Debug\RecursionPower.pdb
+C:\Users\skant\OneDrive\Desktop\C#\RecursionPower\RecursionPower\obj\Debug\RecursionPower.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\RecursionPower\RecursionPower\obj\Debug\RecursionPower.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\RecursionPower\RecursionPower\obj\Debug\RecursionPower.exe
+C:\Users\skant\OneDrive\Desktop\C#\RecursionPower\RecursionPower\obj\Debug\RecursionPower.pdb

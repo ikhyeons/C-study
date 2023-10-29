@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\skant\OneDrive\Desktop\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\skant\OneDrive\Desktop\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.pdb

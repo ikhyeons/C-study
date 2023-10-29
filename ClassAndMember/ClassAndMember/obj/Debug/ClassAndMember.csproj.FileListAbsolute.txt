@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ClassAndMember\ClassAndMember\bin\Debug\ClassAndMember.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ClassAndMember\ClassAndMember\bin\Debug\ClassAndMember.exe
+C:\Users\skant\OneDrive\Desktop\C#\ClassAndMember\ClassAndMember\bin\Debug\ClassAndMember.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ClassAndMember\ClassAndMember\obj\Debug\ClassAndMember.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ClassAndMember\ClassAndMember\obj\Debug\ClassAndMember.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ClassAndMember\ClassAndMember\obj\Debug\ClassAndMember.exe
+C:\Users\skant\OneDrive\Desktop\C#\ClassAndMember\ClassAndMember\obj\Debug\ClassAndMember.pdb

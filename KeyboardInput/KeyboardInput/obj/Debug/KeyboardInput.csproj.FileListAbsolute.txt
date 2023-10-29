@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\KeyboardInput\KeyboardInput\bin\Debug\KeyboardInput.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\KeyboardInput\KeyboardInput\bin\Debug\KeyboardInput.exe
+C:\Users\skant\OneDrive\Desktop\C#\KeyboardInput\KeyboardInput\bin\Debug\KeyboardInput.pdb
+C:\Users\skant\OneDrive\Desktop\C#\KeyboardInput\KeyboardInput\obj\Debug\KeyboardInput.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\KeyboardInput\KeyboardInput\obj\Debug\KeyboardInput.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\KeyboardInput\KeyboardInput\obj\Debug\KeyboardInput.exe
+C:\Users\skant\OneDrive\Desktop\C#\KeyboardInput\KeyboardInput\obj\Debug\KeyboardInput.pdb

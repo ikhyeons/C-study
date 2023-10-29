@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ParameterOut\ParameterOut\bin\Debug\ParameterOut.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ParameterOut\ParameterOut\bin\Debug\ParameterOut.exe
+C:\Users\skant\OneDrive\Desktop\C#\ParameterOut\ParameterOut\bin\Debug\ParameterOut.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ParameterOut\ParameterOut\obj\Debug\ParameterOut.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ParameterOut\ParameterOut\obj\Debug\ParameterOut.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ParameterOut\ParameterOut\obj\Debug\ParameterOut.exe
+C:\Users\skant\OneDrive\Desktop\C#\ParameterOut\ParameterOut\obj\Debug\ParameterOut.pdb

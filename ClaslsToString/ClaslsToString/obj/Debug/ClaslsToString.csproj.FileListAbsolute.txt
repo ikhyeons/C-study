@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ClaslsToString\ClaslsToString\obj\Debug\ClaslsToString.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ClaslsToString\ClaslsToString\obj\Debug\ClaslsToString.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ClaslsToString\ClaslsToString\bin\Debug\ClaslsToString.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ClaslsToString\ClaslsToString\bin\Debug\ClaslsToString.exe
+C:\Users\skant\OneDrive\Desktop\C#\ClaslsToString\ClaslsToString\bin\Debug\ClaslsToString.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ClaslsToString\ClaslsToString\obj\Debug\ClaslsToString.exe
+C:\Users\skant\OneDrive\Desktop\C#\ClaslsToString\ClaslsToString\obj\Debug\ClaslsToString.pdb

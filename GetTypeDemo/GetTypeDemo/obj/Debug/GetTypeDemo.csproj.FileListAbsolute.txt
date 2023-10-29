@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\GetTypeDemo\GetTypeDemo\bin\Debug\GetTypeDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\GetTypeDemo\GetTypeDemo\bin\Debug\GetTypeDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetTypeDemo\GetTypeDemo\bin\Debug\GetTypeDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\GetTypeDemo\GetTypeDemo\obj\Debug\GetTypeDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetTypeDemo\GetTypeDemo\obj\Debug\GetTypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetTypeDemo\GetTypeDemo\obj\Debug\GetTypeDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetTypeDemo\GetTypeDemo\obj\Debug\GetTypeDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\BinaryString\BinaryString\bin\Debug\BinaryString.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\BinaryString\BinaryString\bin\Debug\BinaryString.exe
+C:\Users\skant\OneDrive\Desktop\C#\BinaryString\BinaryString\bin\Debug\BinaryString.pdb
+C:\Users\skant\OneDrive\Desktop\C#\BinaryString\BinaryString\obj\Debug\BinaryString.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\BinaryString\BinaryString\obj\Debug\BinaryString.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\BinaryString\BinaryString\obj\Debug\BinaryString.exe
+C:\Users\skant\OneDrive\Desktop\C#\BinaryString\BinaryString\obj\Debug\BinaryString.pdb

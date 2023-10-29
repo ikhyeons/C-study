@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\GroupAlgorithm\GroupAlgorithm\bin\Debug\GroupAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\GroupAlgorithm\GroupAlgorithm\bin\Debug\GroupAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\GroupAlgorithm\GroupAlgorithm\bin\Debug\GroupAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\GroupAlgorithm\GroupAlgorithm\obj\Debug\GroupAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\GroupAlgorithm\GroupAlgorithm\obj\Debug\GroupAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\GroupAlgorithm\GroupAlgorithm\obj\Debug\GroupAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\GroupAlgorithm\GroupAlgorithm\obj\Debug\GroupAlgorithm.pdb

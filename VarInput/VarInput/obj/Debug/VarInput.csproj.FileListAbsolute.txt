@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\VarInput\VarInput\bin\Debug\VarInput.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\VarInput\VarInput\bin\Debug\VarInput.exe
+C:\Users\skant\OneDrive\Desktop\C#\VarInput\VarInput\bin\Debug\VarInput.pdb
+C:\Users\skant\OneDrive\Desktop\C#\VarInput\VarInput\obj\Debug\VarInput.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\VarInput\VarInput\obj\Debug\VarInput.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\VarInput\VarInput\obj\Debug\VarInput.exe
+C:\Users\skant\OneDrive\Desktop\C#\VarInput\VarInput\obj\Debug\VarInput.pdb

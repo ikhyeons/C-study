@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousType\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousType\AnonymousType\obj\Debug\AnonymousType.exe
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousType\AnonymousType\obj\Debug\AnonymousType.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LinqSum\LinqSum\bin\Debug\LinqSum.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LinqSum\LinqSum\bin\Debug\LinqSum.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqSum\LinqSum\bin\Debug\LinqSum.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LinqSum\LinqSum\obj\Debug\LinqSum.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqSum\LinqSum\obj\Debug\LinqSum.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqSum\LinqSum\obj\Debug\LinqSum.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqSum\LinqSum\obj\Debug\LinqSum.pdb

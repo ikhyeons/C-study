@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\MinAndMax\MinAndMax\bin\Debug\MinAndMax.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\MinAndMax\MinAndMax\bin\Debug\MinAndMax.exe
+C:\Users\skant\OneDrive\Desktop\C#\MinAndMax\MinAndMax\bin\Debug\MinAndMax.pdb
+C:\Users\skant\OneDrive\Desktop\C#\MinAndMax\MinAndMax\obj\Debug\MinAndMax.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\MinAndMax\MinAndMax\obj\Debug\MinAndMax.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\MinAndMax\MinAndMax\obj\Debug\MinAndMax.exe
+C:\Users\skant\OneDrive\Desktop\C#\MinAndMax\MinAndMax\obj\Debug\MinAndMax.pdb

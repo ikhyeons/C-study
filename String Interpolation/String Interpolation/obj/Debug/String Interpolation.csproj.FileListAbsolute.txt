@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\String Interpolation\String Interpolation\obj\Debug\String Interpolation.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\String Interpolation\String Interpolation\obj\Debug\String Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\String Interpolation\String Interpolation\bin\Debug\String Interpolation.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\String Interpolation\String Interpolation\bin\Debug\String Interpolation.exe
+C:\Users\skant\OneDrive\Desktop\C#\String Interpolation\String Interpolation\bin\Debug\String Interpolation.pdb
+C:\Users\skant\OneDrive\Desktop\C#\String Interpolation\String Interpolation\obj\Debug\String Interpolation.exe
+C:\Users\skant\OneDrive\Desktop\C#\String Interpolation\String Interpolation\obj\Debug\String Interpolation.pdb

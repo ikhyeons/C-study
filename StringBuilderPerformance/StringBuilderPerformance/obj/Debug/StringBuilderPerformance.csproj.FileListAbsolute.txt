@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\StringBuilderPerformance\StringBuilderPerformance\bin\Debug\StringBuilderPerformance.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\StringBuilderPerformance\StringBuilderPerformance\bin\Debug\StringBuilderPerformance.exe
+C:\Users\skant\OneDrive\Desktop\C#\StringBuilderPerformance\StringBuilderPerformance\bin\Debug\StringBuilderPerformance.pdb
+C:\Users\skant\OneDrive\Desktop\C#\StringBuilderPerformance\StringBuilderPerformance\obj\Debug\StringBuilderPerformance.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\StringBuilderPerformance\StringBuilderPerformance\obj\Debug\StringBuilderPerformance.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\StringBuilderPerformance\StringBuilderPerformance\obj\Debug\StringBuilderPerformance.exe
+C:\Users\skant\OneDrive\Desktop\C#\StringBuilderPerformance\StringBuilderPerformance\obj\Debug\StringBuilderPerformance.pdb

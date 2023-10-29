@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\PassMethodAsParameter.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\PassMethodAsParameter.exe
+C:\Users\skant\OneDrive\Desktop\C#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\PassMethodAsParameter.pdb
+C:\Users\skant\OneDrive\Desktop\C#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\PassMethodAsParameter.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\PassMethodAsParameter.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\PassMethodAsParameter.exe
+C:\Users\skant\OneDrive\Desktop\C#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\PassMethodAsParameter.pdb

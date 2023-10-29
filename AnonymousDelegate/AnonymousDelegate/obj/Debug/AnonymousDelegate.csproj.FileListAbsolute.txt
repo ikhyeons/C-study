@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousDelegate\AnonymousDelegate\bin\Debug\AnonymousDelegate.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousDelegate\AnonymousDelegate\bin\Debug\AnonymousDelegate.exe
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousDelegate\AnonymousDelegate\bin\Debug\AnonymousDelegate.pdb
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousDelegate\AnonymousDelegate\obj\Debug\AnonymousDelegate.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousDelegate\AnonymousDelegate\obj\Debug\AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousDelegate\AnonymousDelegate\obj\Debug\AnonymousDelegate.exe
+C:\Users\skant\OneDrive\Desktop\C#\AnonymousDelegate\AnonymousDelegate\obj\Debug\AnonymousDelegate.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\StructDemo\StructDemo\bin\Debug\StructDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\StructDemo\StructDemo\bin\Debug\StructDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\StructDemo\StructDemo\bin\Debug\StructDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\StructDemo\StructDemo\obj\Debug\StructDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\StructDemo\StructDemo\obj\Debug\StructDemo.pdb

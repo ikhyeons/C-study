@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ClassNote\ClassNote\bin\Debug\ClassNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ClassNote\ClassNote\bin\Debug\ClassNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\ClassNote\ClassNote\bin\Debug\ClassNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ClassNote\ClassNote\obj\Debug\ClassNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ClassNote\ClassNote\obj\Debug\ClassNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ClassNote\ClassNote\obj\Debug\ClassNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\ClassNote\ClassNote\obj\Debug\ClassNote.pdb

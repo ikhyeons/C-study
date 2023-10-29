@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\PropertyPractie\PropertyPractie\bin\Debug\PropertyPractie.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\PropertyPractie\PropertyPractie\bin\Debug\PropertyPractie.exe
+C:\Users\skant\OneDrive\Desktop\C#\PropertyPractie\PropertyPractie\bin\Debug\PropertyPractie.pdb
+C:\Users\skant\OneDrive\Desktop\C#\PropertyPractie\PropertyPractie\obj\Debug\PropertyPractie.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\PropertyPractie\PropertyPractie\obj\Debug\PropertyPractie.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\PropertyPractie\PropertyPractie\obj\Debug\PropertyPractie.exe
+C:\Users\skant\OneDrive\Desktop\C#\PropertyPractie\PropertyPractie\obj\Debug\PropertyPractie.pdb

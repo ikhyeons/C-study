@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\ReflectionGetProperty.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\ReflectionGetProperty.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\ReflectionGetProperty.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\ReflectionGetProperty.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\ReflectionGetProperty.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\ReflectionGetProperty.exe
+C:\Users\skant\OneDrive\Desktop\C#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\ReflectionGetProperty.pdb

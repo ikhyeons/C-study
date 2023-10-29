@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\AttributePratice\AttributePratice\bin\Debug\AttributePratice.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\AttributePratice\AttributePratice\bin\Debug\AttributePratice.exe
+C:\Users\skant\OneDrive\Desktop\C#\AttributePratice\AttributePratice\bin\Debug\AttributePratice.pdb
+C:\Users\skant\OneDrive\Desktop\C#\AttributePratice\AttributePratice\obj\Debug\AttributePratice.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\AttributePratice\AttributePratice\obj\Debug\AttributePratice.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\AttributePratice\AttributePratice\obj\Debug\AttributePratice.exe
+C:\Users\skant\OneDrive\Desktop\C#\AttributePratice\AttributePratice\obj\Debug\AttributePratice.pdb

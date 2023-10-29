@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\IndexerNote\IndexerNote\bin\Debug\IndexerNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\IndexerNote\IndexerNote\bin\Debug\IndexerNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\IndexerNote\IndexerNote\bin\Debug\IndexerNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\IndexerNote\IndexerNote\obj\Debug\IndexerNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\IndexerNote\IndexerNote\obj\Debug\IndexerNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\IndexerNote\IndexerNote\obj\Debug\IndexerNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\IndexerNote\IndexerNote\obj\Debug\IndexerNote.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\RankAlgorithm\RankAlgorithm\bin\Debug\RankAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\RankAlgorithm\RankAlgorithm\bin\Debug\RankAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\RankAlgorithm\RankAlgorithm\bin\Debug\RankAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\RankAlgorithm\RankAlgorithm\obj\Debug\RankAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\RankAlgorithm\RankAlgorithm\obj\Debug\RankAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\RankAlgorithm\RankAlgorithm\obj\Debug\RankAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\RankAlgorithm\RankAlgorithm\obj\Debug\RankAlgorithm.pdb

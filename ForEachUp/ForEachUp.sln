@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachUp", "ForEachUp\ForEachUp.csproj", "{16B4B6D3-29C3-49E4-9B7C-57E3D9E31E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B4B6D3-29C3-49E4-9B7C-57E3D9E31E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B4B6D3-29C3-49E4-9B7C-57E3D9E31E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B4B6D3-29C3-49E4-9B7C-57E3D9E31E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B4B6D3-29C3-49E4-9B7C-57E3D9E31E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A0262E-65D9-458C-9640-DE91834E15B4}
+	EndGlobalSection
+EndGlobal

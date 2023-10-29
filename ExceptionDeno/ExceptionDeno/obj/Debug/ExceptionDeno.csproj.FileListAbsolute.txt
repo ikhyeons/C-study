@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ExceptionDeno\ExceptionDeno\bin\Debug\ExceptionDeno.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ExceptionDeno\ExceptionDeno\bin\Debug\ExceptionDeno.exe
+C:\Users\skant\OneDrive\Desktop\C#\ExceptionDeno\ExceptionDeno\bin\Debug\ExceptionDeno.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ExceptionDeno\ExceptionDeno\obj\Debug\ExceptionDeno.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ExceptionDeno\ExceptionDeno\obj\Debug\ExceptionDeno.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ExceptionDeno\ExceptionDeno\obj\Debug\ExceptionDeno.exe
+C:\Users\skant\OneDrive\Desktop\C#\ExceptionDeno\ExceptionDeno\obj\Debug\ExceptionDeno.pdb

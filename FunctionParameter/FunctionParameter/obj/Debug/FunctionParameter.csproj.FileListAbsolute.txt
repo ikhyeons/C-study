@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\FunctionParameter\FunctionParameter\bin\Debug\FunctionParameter.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\FunctionParameter\FunctionParameter\bin\Debug\FunctionParameter.exe
+C:\Users\skant\OneDrive\Desktop\C#\FunctionParameter\FunctionParameter\bin\Debug\FunctionParameter.pdb
+C:\Users\skant\OneDrive\Desktop\C#\FunctionParameter\FunctionParameter\obj\Debug\FunctionParameter.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FunctionParameter\FunctionParameter\obj\Debug\FunctionParameter.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\FunctionParameter\FunctionParameter\obj\Debug\FunctionParameter.exe
+C:\Users\skant\OneDrive\Desktop\C#\FunctionParameter\FunctionParameter\obj\Debug\FunctionParameter.pdb

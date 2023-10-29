@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetterSetter\GetterSetter\bin\Debug\GetterSetter.pdb
+C:\Users\skant\OneDrive\Desktop\C#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.pdb

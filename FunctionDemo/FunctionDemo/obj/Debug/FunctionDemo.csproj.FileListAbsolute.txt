@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.pdb

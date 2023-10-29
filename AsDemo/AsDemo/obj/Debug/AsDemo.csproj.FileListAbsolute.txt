@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\AsDemo\AsDemo\bin\Debug\AsDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\AsDemo\AsDemo\bin\Debug\AsDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\AsDemo\AsDemo\bin\Debug\AsDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\AsDemo\AsDemo\obj\Debug\AsDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\AsDemo\AsDemo\obj\Debug\AsDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\AsDemo\AsDemo\obj\Debug\AsDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\AsDemo\AsDemo\obj\Debug\AsDemo.pdb

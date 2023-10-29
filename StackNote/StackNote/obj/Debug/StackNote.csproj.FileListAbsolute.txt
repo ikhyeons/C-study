@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\StackNote\StackNote\bin\Debug\StackNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\StackNote\StackNote\bin\Debug\StackNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\StackNote\StackNote\bin\Debug\StackNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\StackNote\StackNote\obj\Debug\StackNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\StackNote\StackNote\obj\Debug\StackNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\StackNote\StackNote\obj\Debug\StackNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\StackNote\StackNote\obj\Debug\StackNote.pdb

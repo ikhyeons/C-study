@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\FuncDelegate\FuncDelegate\bin\Debug\FuncDelegate.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\FuncDelegate\FuncDelegate\bin\Debug\FuncDelegate.exe
+C:\Users\skant\OneDrive\Desktop\C#\FuncDelegate\FuncDelegate\bin\Debug\FuncDelegate.pdb
+C:\Users\skant\OneDrive\Desktop\C#\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.exe
+C:\Users\skant\OneDrive\Desktop\C#\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.pdb

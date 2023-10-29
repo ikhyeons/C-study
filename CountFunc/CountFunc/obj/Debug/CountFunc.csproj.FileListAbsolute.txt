@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\CountFunc\CountFunc\bin\Debug\CountFunc.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\CountFunc\CountFunc\bin\Debug\CountFunc.exe
+C:\Users\skant\OneDrive\Desktop\C#\CountFunc\CountFunc\bin\Debug\CountFunc.pdb
+C:\Users\skant\OneDrive\Desktop\C#\CountFunc\CountFunc\obj\Debug\CountFunc.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\CountFunc\CountFunc\obj\Debug\CountFunc.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\CountFunc\CountFunc\obj\Debug\CountFunc.exe
+C:\Users\skant\OneDrive\Desktop\C#\CountFunc\CountFunc\obj\Debug\CountFunc.pdb

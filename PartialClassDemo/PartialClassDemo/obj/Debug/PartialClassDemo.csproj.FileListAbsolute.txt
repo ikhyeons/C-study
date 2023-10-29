@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.pdb

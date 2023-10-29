@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\EnumParse\EnumParse\bin\Debug\EnumParse.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\EnumParse\EnumParse\bin\Debug\EnumParse.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumParse\EnumParse\bin\Debug\EnumParse.pdb
+C:\Users\skant\OneDrive\Desktop\C#\EnumParse\EnumParse\obj\Debug\EnumParse.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumParse\EnumParse\obj\Debug\EnumParse.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumParse\EnumParse\obj\Debug\EnumParse.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumParse\EnumParse\obj\Debug\EnumParse.pdb

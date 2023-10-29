@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\StringKeyword\StringKeyword\obj\Debug\StringKeyword.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\StringKeyword\StringKeyword\obj\Debug\StringKeyword.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\StringKeyword\StringKeyword\bin\Debug\StringKeyword.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\StringKeyword\StringKeyword\bin\Debug\StringKeyword.exe
+C:\Users\skant\OneDrive\Desktop\C#\StringKeyword\StringKeyword\bin\Debug\StringKeyword.pdb
+C:\Users\skant\OneDrive\Desktop\C#\StringKeyword\StringKeyword\obj\Debug\StringKeyword.exe
+C:\Users\skant\OneDrive\Desktop\C#\StringKeyword\StringKeyword\obj\Debug\StringKeyword.pdb

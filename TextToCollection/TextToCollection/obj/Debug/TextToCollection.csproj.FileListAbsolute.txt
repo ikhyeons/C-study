@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\TextToCollection\TextToCollection\bin\Debug\TextToCollection.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\TextToCollection\TextToCollection\bin\Debug\TextToCollection.exe
+C:\Users\skant\OneDrive\Desktop\C#\TextToCollection\TextToCollection\bin\Debug\TextToCollection.pdb
+C:\Users\skant\OneDrive\Desktop\C#\TextToCollection\TextToCollection\obj\Debug\TextToCollection.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\TextToCollection\TextToCollection\obj\Debug\TextToCollection.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\TextToCollection\TextToCollection\obj\Debug\TextToCollection.exe
+C:\Users\skant\OneDrive\Desktop\C#\TextToCollection\TextToCollection\obj\Debug\TextToCollection.pdb

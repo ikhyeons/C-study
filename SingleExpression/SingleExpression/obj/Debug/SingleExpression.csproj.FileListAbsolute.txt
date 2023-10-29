@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\SingleExpression\SingleExpression\bin\Debug\SingleExpression.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\SingleExpression\SingleExpression\bin\Debug\SingleExpression.exe
+C:\Users\skant\OneDrive\Desktop\C#\SingleExpression\SingleExpression\bin\Debug\SingleExpression.pdb
+C:\Users\skant\OneDrive\Desktop\C#\SingleExpression\SingleExpression\obj\Debug\SingleExpression.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\SingleExpression\SingleExpression\obj\Debug\SingleExpression.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\SingleExpression\SingleExpression\obj\Debug\SingleExpression.exe
+C:\Users\skant\OneDrive\Desktop\C#\SingleExpression\SingleExpression\obj\Debug\SingleExpression.pdb

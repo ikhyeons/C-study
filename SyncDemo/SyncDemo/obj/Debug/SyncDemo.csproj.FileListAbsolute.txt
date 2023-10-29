@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\SyncDemo\SyncDemo\bin\Debug\SyncDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\SyncDemo\SyncDemo\obj\Debug\SyncDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\SyncDemo\SyncDemo\obj\Debug\SyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\SyncDemo\SyncDemo\obj\Debug\SyncDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\SyncDemo\SyncDemo\obj\Debug\SyncDemo.pdb

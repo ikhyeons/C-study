@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\bin\Debug\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\bin\Debug\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ.exe
+C:\Users\skant\OneDrive\Desktop\C#\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\bin\Debug\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\obj\Debug\CallerInformation.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\obj\Debug\CallerInformation.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\obj\Debug\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ.exe
+C:\Users\skant\OneDrive\Desktop\C#\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ\obj\Debug\ㅊ미ㅣㄷ갸ㅜ래금샤ㅐㅜ.pdb

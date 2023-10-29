@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe
+C:\Users\skant\OneDrive\Desktop\C#\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.pdb
+C:\Users\skant\OneDrive\Desktop\C#\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.exe
+C:\Users\skant\OneDrive\Desktop\C#\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.pdb

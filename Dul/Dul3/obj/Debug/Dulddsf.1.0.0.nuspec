@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dulddsf</id>
+    <version>1.0.0</version>
+    <authors>DD</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul3\bin\Debug\netstandard2.0\Dul.dll" target="lib\netstandard2.0\Dul.dll" />
+  </files>
+</package>

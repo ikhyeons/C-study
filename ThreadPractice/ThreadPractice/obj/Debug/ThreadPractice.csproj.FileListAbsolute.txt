@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ThreadPractice\ThreadPractice\bin\Debug\ThreadPractice.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ThreadPractice\ThreadPractice\bin\Debug\ThreadPractice.exe
+C:\Users\skant\OneDrive\Desktop\C#\ThreadPractice\ThreadPractice\bin\Debug\ThreadPractice.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ThreadPractice\ThreadPractice\obj\Debug\ThreadPractice.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ThreadPractice\ThreadPractice\obj\Debug\ThreadPractice.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ThreadPractice\ThreadPractice\obj\Debug\ThreadPractice.exe
+C:\Users\skant\OneDrive\Desktop\C#\ThreadPractice\ThreadPractice\obj\Debug\ThreadPractice.pdb

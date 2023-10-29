@@ -1,0 +1,10 @@
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Common.deps.json
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Common.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\bin\Debug\netstandard2.0\Dinner.Common.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.AssemblyInfoInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.AssemblyInfo.cs
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner.Common\obj\Debug\netstandard2.0\Dinner.Common.pdb

@@ -1,0 +1,10 @@
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\bin\Debug\Dul.App.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\bin\Debug\Dul.App.exe
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\bin\Debug\Dul.App.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\obj\Debug\Dul.App.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\obj\Debug\Dul.App.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\obj\Debug\Dul.App.csproj.CopyComplete
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\obj\Debug\Dul.App.exe
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\obj\Debug\Dul.App.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\bin\Debug\Dul.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul.App\bin\Debug\Dul.pdb

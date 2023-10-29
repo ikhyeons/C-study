@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\NearAlgorithm\NearAlgorithm\bin\Debug\NearAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\NearAlgorithm\NearAlgorithm\bin\Debug\NearAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\NearAlgorithm\NearAlgorithm\bin\Debug\NearAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\NearAlgorithm\NearAlgorithm\obj\Debug\NearAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\NearAlgorithm\NearAlgorithm\obj\Debug\NearAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\NearAlgorithm\NearAlgorithm\obj\Debug\NearAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\NearAlgorithm\NearAlgorithm\obj\Debug\NearAlgorithm.pdb

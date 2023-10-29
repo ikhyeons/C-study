@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\FromWhereSelect\FromWhereSelect\bin\Debug\FromWhereSelect.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\FromWhereSelect\FromWhereSelect\bin\Debug\FromWhereSelect.exe
+C:\Users\skant\OneDrive\Desktop\C#\FromWhereSelect\FromWhereSelect\bin\Debug\FromWhereSelect.pdb
+C:\Users\skant\OneDrive\Desktop\C#\FromWhereSelect\FromWhereSelect\obj\Debug\FromWhereSelect.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FromWhereSelect\FromWhereSelect\obj\Debug\FromWhereSelect.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\FromWhereSelect\FromWhereSelect\obj\Debug\FromWhereSelect.exe
+C:\Users\skant\OneDrive\Desktop\C#\FromWhereSelect\FromWhereSelect\obj\Debug\FromWhereSelect.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\IsAn\IsAn\bin\Debug\IsAn.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\IsAn\IsAn\bin\Debug\IsAn.exe
+C:\Users\skant\OneDrive\Desktop\C#\IsAn\IsAn\bin\Debug\IsAn.pdb
+C:\Users\skant\OneDrive\Desktop\C#\IsAn\IsAn\obj\Debug\IsAn.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\IsAn\IsAn\obj\Debug\IsAn.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\IsAn\IsAn\obj\Debug\IsAn.exe
+C:\Users\skant\OneDrive\Desktop\C#\IsAn\IsAn\obj\Debug\IsAn.pdb

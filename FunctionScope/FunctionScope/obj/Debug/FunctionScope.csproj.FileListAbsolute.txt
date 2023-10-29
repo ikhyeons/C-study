@@ -1,0 +1,2 @@
+C:\Users\skant\OneDrive\Desktop\C#\FunctionScope\FunctionScope\obj\Debug\FunctionScope.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\FunctionScope\FunctionScope\obj\Debug\FunctionScope.csproj.CoreCompileInputs.cache

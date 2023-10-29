@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe
+C:\Users\skant\OneDrive\Desktop\C#\NamedParameter\NamedParameter\bin\Debug\NamedParameter.pdb
+C:\Users\skant\OneDrive\Desktop\C#\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\NamedParameter\NamedParameter\obj\Debug\NamedParameter.exe
+C:\Users\skant\OneDrive\Desktop\C#\NamedParameter\NamedParameter\obj\Debug\NamedParameter.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\NickNameDemo\NickNameDemo\obj\Debug\NickNameDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\NickNameDemo\NickNameDemo\obj\Debug\NickNameDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\NickNameDemo\NickNameDemo\bin\Debug\NickNameDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\NickNameDemo\NickNameDemo\bin\Debug\NickNameDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\NickNameDemo\NickNameDemo\bin\Debug\NickNameDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\NickNameDemo\NickNameDemo\obj\Debug\NickNameDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\NickNameDemo\NickNameDemo\obj\Debug\NickNameDemo.pdb

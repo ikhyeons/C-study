@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\RepositoryPatternDemo\RepositoryPatternDemo\bin\Debug\RepositoryPatternDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\RepositoryPatternDemo\RepositoryPatternDemo\bin\Debug\RepositoryPatternDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\RepositoryPatternDemo\RepositoryPatternDemo\bin\Debug\RepositoryPatternDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\RepositoryPatternDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\RepositoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\RepositoryPatternDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\RepositoryPatternDemo\RepositoryPatternDemo\obj\Debug\RepositoryPatternDemo.pdb

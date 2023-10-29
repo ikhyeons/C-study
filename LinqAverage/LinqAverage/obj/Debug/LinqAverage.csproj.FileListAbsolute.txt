@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LinqAverage\LinqAverage\bin\Debug\LinqAverage.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LinqAverage\LinqAverage\bin\Debug\LinqAverage.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqAverage\LinqAverage\bin\Debug\LinqAverage.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LinqAverage\LinqAverage\obj\Debug\LinqAverage.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqAverage\LinqAverage\obj\Debug\LinqAverage.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqAverage\LinqAverage\obj\Debug\LinqAverage.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqAverage\LinqAverage\obj\Debug\LinqAverage.pdb

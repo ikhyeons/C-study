@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\EnumSwitch\EnumSwitch\bin\Debug\EnumSwitch.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\EnumSwitch\EnumSwitch\bin\Debug\EnumSwitch.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumSwitch\EnumSwitch\bin\Debug\EnumSwitch.pdb
+C:\Users\skant\OneDrive\Desktop\C#\EnumSwitch\EnumSwitch\obj\Debug\EnumSwitch.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumSwitch\EnumSwitch\obj\Debug\EnumSwitch.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumSwitch\EnumSwitch\obj\Debug\EnumSwitch.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumSwitch\EnumSwitch\obj\Debug\EnumSwitch.pdb

@@ -1,0 +1,11 @@
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\bin\Debug\net6.0\Dul2.deps.json
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\bin\Debug\net6.0\Dul2.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\bin\Debug\net6.0\Dul2.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\Dul2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\Dul2.AssemblyInfoInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\Dul2.AssemblyInfo.cs
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\Dul2.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\Dul2.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\refint\Dul2.dll
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\Dul2.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Dul\Dul2\obj\Debug\net6.0\ref\Dul2.dll

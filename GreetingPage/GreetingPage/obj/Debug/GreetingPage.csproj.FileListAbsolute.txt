@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\GreetingPage\GreetingPage\bin\Debug\GreetingPage.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\GreetingPage\GreetingPage\bin\Debug\GreetingPage.exe
+C:\Users\skant\OneDrive\Desktop\C#\GreetingPage\GreetingPage\bin\Debug\GreetingPage.pdb
+C:\Users\skant\OneDrive\Desktop\C#\GreetingPage\GreetingPage\obj\Debug\GreetingPage.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\GreetingPage\GreetingPage\obj\Debug\GreetingPage.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\GreetingPage\GreetingPage\obj\Debug\GreetingPage.exe
+C:\Users\skant\OneDrive\Desktop\C#\GreetingPage\GreetingPage\obj\Debug\GreetingPage.pdb

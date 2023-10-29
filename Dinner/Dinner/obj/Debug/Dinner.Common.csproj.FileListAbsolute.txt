@@ -1,0 +1,2 @@
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner\obj\Debug\Dinner.Common.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Dinner\Dinner\obj\Debug\Dinner.Common.csproj.CoreCompileInputs.cache

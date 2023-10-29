@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\GetFileNameDemo\GetFileNameDemo\bin\Debug\GetFileNameDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\GetFileNameDemo\GetFileNameDemo\bin\Debug\GetFileNameDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetFileNameDemo\GetFileNameDemo\bin\Debug\GetFileNameDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\GetFileNameDemo\GetFileNameDemo\obj\Debug\GetFileNameDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetFileNameDemo\GetFileNameDemo\obj\Debug\GetFileNameDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\GetFileNameDemo\GetFileNameDemo\obj\Debug\GetFileNameDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\GetFileNameDemo\GetFileNameDemo\obj\Debug\GetFileNameDemo.pdb

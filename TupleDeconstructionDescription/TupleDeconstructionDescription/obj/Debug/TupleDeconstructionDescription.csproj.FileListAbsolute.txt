@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\TupleDeconstructionDescription.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\TupleDeconstructionDescription.exe
+C:\Users\skant\OneDrive\Desktop\C#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\TupleDeconstructionDescription.pdb
+C:\Users\skant\OneDrive\Desktop\C#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\TupleDeconstructionDescription.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\TupleDeconstructionDescription.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\TupleDeconstructionDescription.exe
+C:\Users\skant\OneDrive\Desktop\C#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\TupleDeconstructionDescription.pdb

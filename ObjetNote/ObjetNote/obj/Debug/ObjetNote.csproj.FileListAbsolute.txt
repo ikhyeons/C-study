@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ObjetNote\ObjetNote\bin\Debug\ObjetNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ObjetNote\ObjetNote\bin\Debug\ObjetNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\ObjetNote\ObjetNote\bin\Debug\ObjetNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ObjetNote\ObjetNote\obj\Debug\ObjetNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ObjetNote\ObjetNote\obj\Debug\ObjetNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ObjetNote\ObjetNote\obj\Debug\ObjetNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\ObjetNote\ObjetNote\obj\Debug\ObjetNote.pdb

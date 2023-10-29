@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\AverageAlgorithm\AverageAlgorithm\bin\Debug\AverageAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\AverageAlgorithm\AverageAlgorithm\bin\Debug\AverageAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\AverageAlgorithm\AverageAlgorithm\bin\Debug\AverageAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\AverageAlgorithm\AverageAlgorithm\obj\Debug\AverageAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\AverageAlgorithm\AverageAlgorithm\obj\Debug\AverageAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\AverageAlgorithm\AverageAlgorithm\obj\Debug\AverageAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\AverageAlgorithm\AverageAlgorithm\obj\Debug\AverageAlgorithm.pdb

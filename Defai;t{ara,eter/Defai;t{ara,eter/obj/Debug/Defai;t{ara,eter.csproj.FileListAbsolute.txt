@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\Defai;t{ara,eter\Defai;t{ara,eter\bin\Debug\Defai;t{ara,eter.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\Defai;t{ara,eter\Defai;t{ara,eter\bin\Debug\Defai;t{ara,eter.exe
+C:\Users\skant\OneDrive\Desktop\C#\Defai;t{ara,eter\Defai;t{ara,eter\bin\Debug\Defai;t{ara,eter.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Defai;t{ara,eter\Defai;t{ara,eter\obj\Debug\Defai;t{ara,eter.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Defai;t{ara,eter\Defai;t{ara,eter\obj\Debug\Defai;t{ara,eter.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Defai;t{ara,eter\Defai;t{ara,eter\obj\Debug\Defai;t{ara,eter.exe
+C:\Users\skant\OneDrive\Desktop\C#\Defai;t{ara,eter\Defai;t{ara,eter\obj\Debug\Defai;t{ara,eter.pdb

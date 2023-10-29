@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LinqMin\LinqMin\bin\Debug\LinqMin.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LinqMin\LinqMin\bin\Debug\LinqMin.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqMin\LinqMin\bin\Debug\LinqMin.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LinqMin\LinqMin\obj\Debug\LinqMin.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqMin\LinqMin\obj\Debug\LinqMin.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LinqMin\LinqMin\obj\Debug\LinqMin.exe
+C:\Users\skant\OneDrive\Desktop\C#\LinqMin\LinqMin\obj\Debug\LinqMin.pdb

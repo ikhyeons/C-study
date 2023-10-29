@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\IDisposableDemo\IDisposableDemo\bin\Debug\IDisposableDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\IDisposableDemo\IDisposableDemo\bin\Debug\IDisposableDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\IDisposableDemo\IDisposableDemo\bin\Debug\IDisposableDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\IDisposableDemo\IDisposableDemo\obj\Debug\IDisposableDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\IDisposableDemo\IDisposableDemo\obj\Debug\IDisposableDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\IDisposableDemo\IDisposableDemo\obj\Debug\IDisposableDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\IDisposableDemo\IDisposableDemo\obj\Debug\IDisposableDemo.pdb

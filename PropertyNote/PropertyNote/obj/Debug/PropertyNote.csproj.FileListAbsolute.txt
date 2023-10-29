@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\PropertyNote\PropertyNote\bin\Debug\PropertyNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\PropertyNote\PropertyNote\bin\Debug\PropertyNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\PropertyNote\PropertyNote\bin\Debug\PropertyNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\PropertyNote\PropertyNote\obj\Debug\PropertyNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\PropertyNote\PropertyNote\obj\Debug\PropertyNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\PropertyNote\PropertyNote\obj\Debug\PropertyNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\PropertyNote\PropertyNote\obj\Debug\PropertyNote.pdb

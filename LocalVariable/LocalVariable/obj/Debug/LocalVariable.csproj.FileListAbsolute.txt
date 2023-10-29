@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LocalVariable\LocalVariable\bin\Debug\LocalVariable.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LocalVariable\LocalVariable\bin\Debug\LocalVariable.exe
+C:\Users\skant\OneDrive\Desktop\C#\LocalVariable\LocalVariable\bin\Debug\LocalVariable.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LocalVariable\LocalVariable\obj\Debug\LocalVariable.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LocalVariable\LocalVariable\obj\Debug\LocalVariable.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LocalVariable\LocalVariable\obj\Debug\LocalVariable.exe
+C:\Users\skant\OneDrive\Desktop\C#\LocalVariable\LocalVariable\obj\Debug\LocalVariable.pdb

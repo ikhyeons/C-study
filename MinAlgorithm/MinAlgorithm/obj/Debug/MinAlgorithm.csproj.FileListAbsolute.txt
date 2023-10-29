@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\MinAlgorithm\MinAlgorithm\bin\Debug\MinAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\MinAlgorithm\MinAlgorithm\bin\Debug\MinAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\MinAlgorithm\MinAlgorithm\bin\Debug\MinAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\MinAlgorithm\MinAlgorithm\obj\Debug\MinAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\MinAlgorithm\MinAlgorithm\obj\Debug\MinAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\MinAlgorithm\MinAlgorithm\obj\Debug\MinAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\MinAlgorithm\MinAlgorithm\obj\Debug\MinAlgorithm.pdb

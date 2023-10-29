@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\EnumAnial\EnumAnial\bin\Debug\EnumAnial.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\EnumAnial\EnumAnial\bin\Debug\EnumAnial.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumAnial\EnumAnial\bin\Debug\EnumAnial.pdb
+C:\Users\skant\OneDrive\Desktop\C#\EnumAnial\EnumAnial\obj\Debug\EnumAnimal.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumAnial\EnumAnial\obj\Debug\EnumAnimal.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumAnial\EnumAnial\obj\Debug\EnumAnial.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumAnial\EnumAnial\obj\Debug\EnumAnial.pdb

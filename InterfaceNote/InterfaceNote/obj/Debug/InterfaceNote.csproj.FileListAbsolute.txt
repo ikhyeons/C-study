@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceNote\InterfaceNote\bin\Debug\InterfaceNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceNote\InterfaceNote\bin\Debug\InterfaceNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceNote\InterfaceNote\bin\Debug\InterfaceNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.pdb

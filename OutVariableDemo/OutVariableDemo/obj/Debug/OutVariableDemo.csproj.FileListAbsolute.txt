@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\OutVariableDemo\OutVariableDemo\bin\Debug\OutVariableDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\OutVariableDemo\OutVariableDemo\bin\Debug\OutVariableDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\OutVariableDemo\OutVariableDemo\bin\Debug\OutVariableDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\OutVariableDemo\OutVariableDemo\obj\Debug\OutVariableDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\OutVariableDemo\OutVariableDemo\obj\Debug\OutVariableDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\OutVariableDemo\OutVariableDemo\obj\Debug\OutVariableDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\OutVariableDemo\OutVariableDemo\obj\Debug\OutVariableDemo.pdb

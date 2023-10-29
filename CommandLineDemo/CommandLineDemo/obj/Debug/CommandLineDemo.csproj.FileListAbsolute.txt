@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineDemo\CommandLineDemo\bin\Debug\CommandLineDemo.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineDemo\CommandLineDemo\bin\Debug\CommandLineDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineDemo\CommandLineDemo\bin\Debug\CommandLineDemo.pdb
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineDemo\CommandLineDemo\obj\Debug\CommandLineDemo.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineDemo\CommandLineDemo\obj\Debug\CommandLineDemo.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineDemo\CommandLineDemo\obj\Debug\CommandLineDemo.exe
+C:\Users\skant\OneDrive\Desktop\C#\CommandLineDemo\CommandLineDemo\obj\Debug\CommandLineDemo.pdb

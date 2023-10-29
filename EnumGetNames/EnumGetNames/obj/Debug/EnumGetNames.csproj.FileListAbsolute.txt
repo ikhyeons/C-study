@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\EnumGetNames\EnumGetNames\bin\Debug\EnumGetNames.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\EnumGetNames\EnumGetNames\bin\Debug\EnumGetNames.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumGetNames\EnumGetNames\bin\Debug\EnumGetNames.pdb
+C:\Users\skant\OneDrive\Desktop\C#\EnumGetNames\EnumGetNames\obj\Debug\EnumGetNames.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumGetNames\EnumGetNames\obj\Debug\EnumGetNames.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\EnumGetNames\EnumGetNames\obj\Debug\EnumGetNames.exe
+C:\Users\skant\OneDrive\Desktop\C#\EnumGetNames\EnumGetNames\obj\Debug\EnumGetNames.pdb

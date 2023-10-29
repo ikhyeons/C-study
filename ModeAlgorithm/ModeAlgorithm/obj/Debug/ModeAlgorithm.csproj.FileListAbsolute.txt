@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ModeAlgorithm\ModeAlgorithm\bin\Debug\ModeAlgorithm.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ModeAlgorithm\ModeAlgorithm\bin\Debug\ModeAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\ModeAlgorithm\ModeAlgorithm\bin\Debug\ModeAlgorithm.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ModeAlgorithm\ModeAlgorithm\obj\Debug\ModeAlgorithm.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ModeAlgorithm\ModeAlgorithm\obj\Debug\ModeAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ModeAlgorithm\ModeAlgorithm\obj\Debug\ModeAlgorithm.exe
+C:\Users\skant\OneDrive\Desktop\C#\ModeAlgorithm\ModeAlgorithm\obj\Debug\ModeAlgorithm.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\Var\Var\bin\Debug\Var.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\Var\Var\bin\Debug\Var.exe
+C:\Users\skant\OneDrive\Desktop\C#\Var\Var\bin\Debug\Var.pdb
+C:\Users\skant\OneDrive\Desktop\C#\Var\Var\obj\Debug\Var.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\Var\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\Var\Var\obj\Debug\Var.exe
+C:\Users\skant\OneDrive\Desktop\C#\Var\Var\obj\Debug\Var.pdb

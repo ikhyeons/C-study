@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.pdb
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.exe
+C:\Users\skant\OneDrive\Desktop\C#\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.pdb

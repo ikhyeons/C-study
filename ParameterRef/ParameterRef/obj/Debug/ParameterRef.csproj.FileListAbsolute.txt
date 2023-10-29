@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ParameterRef\ParameterRef\bin\Debug\ParameterRef.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ParameterRef\ParameterRef\bin\Debug\ParameterRef.exe
+C:\Users\skant\OneDrive\Desktop\C#\ParameterRef\ParameterRef\bin\Debug\ParameterRef.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ParameterRef\ParameterRef\obj\Debug\ParameterRef.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ParameterRef\ParameterRef\obj\Debug\ParameterRef.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ParameterRef\ParameterRef\obj\Debug\ParameterRef.exe
+C:\Users\skant\OneDrive\Desktop\C#\ParameterRef\ParameterRef\obj\Debug\ParameterRef.pdb

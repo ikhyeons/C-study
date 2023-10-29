@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\PatternMatchingWithSwith\PatternMatchingWithSwith\bin\Debug\PatternMatchingWithSwith.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\PatternMatchingWithSwith\PatternMatchingWithSwith\bin\Debug\PatternMatchingWithSwith.exe
+C:\Users\skant\OneDrive\Desktop\C#\PatternMatchingWithSwith\PatternMatchingWithSwith\bin\Debug\PatternMatchingWithSwith.pdb
+C:\Users\skant\OneDrive\Desktop\C#\PatternMatchingWithSwith\PatternMatchingWithSwith\obj\Debug\PatternMatchingWithSwitch.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\PatternMatchingWithSwith\PatternMatchingWithSwith\obj\Debug\PatternMatchingWithSwitch.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\PatternMatchingWithSwith\PatternMatchingWithSwith\obj\Debug\PatternMatchingWithSwith.exe
+C:\Users\skant\OneDrive\Desktop\C#\PatternMatchingWithSwith\PatternMatchingWithSwith\obj\Debug\PatternMatchingWithSwith.pdb

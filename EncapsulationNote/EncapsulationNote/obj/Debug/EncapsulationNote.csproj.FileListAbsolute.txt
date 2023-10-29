@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\EncapsulationNote\EncapsulationNote\bin\Debug\EncapsulationNote.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\EncapsulationNote\EncapsulationNote\bin\Debug\EncapsulationNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\EncapsulationNote\EncapsulationNote\bin\Debug\EncapsulationNote.pdb
+C:\Users\skant\OneDrive\Desktop\C#\EncapsulationNote\EncapsulationNote\obj\Debug\EncapsulationNote.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\EncapsulationNote\EncapsulationNote\obj\Debug\EncapsulationNote.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\EncapsulationNote\EncapsulationNote\obj\Debug\EncapsulationNote.exe
+C:\Users\skant\OneDrive\Desktop\C#\EncapsulationNote\EncapsulationNote\obj\Debug\EncapsulationNote.pdb

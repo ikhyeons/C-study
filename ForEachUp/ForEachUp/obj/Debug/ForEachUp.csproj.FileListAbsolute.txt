@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\ForEachUp\ForEachUp\bin\Debug\ForEachUp.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\ForEachUp\ForEachUp\bin\Debug\ForEachUp.exe
+C:\Users\skant\OneDrive\Desktop\C#\ForEachUp\ForEachUp\bin\Debug\ForEachUp.pdb
+C:\Users\skant\OneDrive\Desktop\C#\ForEachUp\ForEachUp\obj\Debug\ForEachUp.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\ForEachUp\ForEachUp\obj\Debug\ForEachUp.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\ForEachUp\ForEachUp\obj\Debug\ForEachUp.exe
+C:\Users\skant\OneDrive\Desktop\C#\ForEachUp\ForEachUp\obj\Debug\ForEachUp.pdb

@@ -1,0 +1,7 @@
+C:\Users\skant\OneDrive\Desktop\C#\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+C:\Users\skant\OneDrive\Desktop\C#\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe
+C:\Users\skant\OneDrive\Desktop\C#\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.pdb
+C:\Users\skant\OneDrive\Desktop\C#\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.AssemblyReference.cache
+C:\Users\skant\OneDrive\Desktop\C#\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\skant\OneDrive\Desktop\C#\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.exe
+C:\Users\skant\OneDrive\Desktop\C#\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.pdb
